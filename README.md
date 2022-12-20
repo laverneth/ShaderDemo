@@ -1,4 +1,7 @@
 # Shader Demo
+
+![alt text](https://github.com/laverneth/ShaderDemo/blob/main/icon.png)
+
 This is the demo for pixelated/band limited light.
 It is a very simple shader!
 
