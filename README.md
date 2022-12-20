@@ -1,4 +1,4 @@
-# light_pixel
+# Shader Demo
 This is the demo for pixelated/band limited light.
 It is a very simple shader!
 
